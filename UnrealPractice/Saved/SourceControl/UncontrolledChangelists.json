@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/StarterContent/Audio/Collapse01.uasset",
-				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/Collectables/Coin.uasset"
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/Collectables/Coin.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/Collectables/Coin/Coin.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/Collectables/Coin/M_ShiningGold.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/HUD/UHD.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/HUD/HUD.uasset"
 			]
 		}
 	]
