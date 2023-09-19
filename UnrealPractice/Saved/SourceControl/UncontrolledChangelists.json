@@ -6,11 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/StarterContent/Audio/Collapse01.uasset",
-				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/Collectables/Coin.uasset",
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/Collectables/Coin/Coin.uasset",
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/Collectables/Coin/M_ShiningGold.uasset",
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/HUD/UHD.uasset",
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/HUD/HUD.uasset",
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/I3/MSW2QQ62UCW1QQN8VHNN26.uasset",
@@ -24,7 +22,12 @@
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/FR/CQ6S4AM72QBU0V132GTSBA.uasset",
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FM/P6NEOFLQU8DO4O7WXQTRRA.uasset",
 				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HF/G72B3HWXGUXFV9WU8K6AUK.uasset",
-				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/AZ/FL5A15EXIPJ7159V50EITZ.uasset"
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/AZ/FL5A15EXIPJ7159V50EITZ.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/UI/HUD.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/StarterContent/Audio/Light01.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/UI/GameOverMenu.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/Collectables/Coin.uasset",
+				"C:/Users/david/Desktop/Work/Practice/Unreal 5 Practice/UnrealPractice/Content/HUD/UHD.uasset"
 			]
 		}
 	]
